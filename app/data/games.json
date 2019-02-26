@@ -1,0 +1,82 @@
+[
+  {
+    "title": "Red Dead Redemption 2",
+    "description": "Red Dead Redemption 2 is a Western action-adventure game developed and published by Rockstar Games. It was released on October 26, 2018, for the PlayStation 4 and Xbox One consoles. The third entry in the Red Dead series, it is a prequel to the 2010 game Red Dead Redemption.",
+    "publisher": "Rockstar Games",
+    "price": 39.99,
+    "battleRoyale": true,
+    "thumbnail": "images/red-dead-redemption-2.jpg"
+  },
+  {
+    "title": "Madden 2019",
+    "description": "Achieve your gridiron greatness in Madden NFL 19 with more precision and control to win in all the ways you play. Prove your on-field stick-skills with more control over every step, in game-changing moments through the introduction of Real Player Motion. Take control over how you build your dynasty powered by all-new strategic team building tools and the first ever custom draft class editor in Franchise.",
+    "publisher": "Electronic Arts",
+    "price": "24.99",
+    "battleRoyale": false,
+    "thumbnail": "images/madden-2019.jpg"
+  },
+  {
+    "title": "Resident Evil 2",
+    "description": "Resident Evil 2 is a survival horror game developed and published by Capcom. Players control police officer Leon S. Kennedy and college student Claire Redfield as they attempt to escape from Raccoon City during a zombie apocalypse.",
+    "publisher": "Capcom",
+    "price": 59.99,
+    "battleRoyale": false,
+    "thumbnail": "images/resident-evil-2.jpg"
+  },
+  {
+    "title": "PUBG",
+    "description": "PlayerUnknown's Battlegrounds is an online multiplayer battle royale game developed and published by PUBG Corporation, a subsidiary of South Korean video game company Bluehole. It was first released through Steam Early Access in March 2017, with a full release on December 20, 2017.",
+    "publisher": "PUBG Corporation",
+    "price": 14.99,
+    "battleRoyale": true,
+    "thumbnail": "images/pubg.jpg"
+  },
+  {
+    "title": "Call of Duty Black Ops 4",
+    "description": "Call of Duty: Black Ops 4 is a multiplayer first-person shooter developed by Treyarch and published by Activision. It was released worldwide for Microsoft Windows, PlayStation 4, and Xbox One on October 12, 2018.",
+    "publisher": "Treyarch",
+    "price": 34.99,
+    "battleRoyale": true,
+    "thumbnail": "images/call-of-duty-black-ops-4.jpg"
+  },
+  {
+    "title": "Overwatch",
+    "description": "Overwatch is a team-based multiplayer first-person shooter video game developed and published by Blizzard Entertainment, which was released on May 24, 2016 for PlayStation 4, Xbox One, and Windows.",
+    "publisher": "Blizzard",
+    "price": 24.99,
+    "battleRoyale": true,
+    "thumbnail": "images/overwatch.jpg"
+  },
+  {
+    "title": "Sea of Thieves",
+    "description": "Sea of Thieves is an action-adventure video game developed by Rare and published by Microsoft Studios for Windows and Xbox One. The game allows players to take the role of a pirate sailing the seas of a fantastical world either solo or as part of a crew of up to four players.",
+    "publisher": "Rare",
+    "price": 29.99,
+    "battleRoyale": false,
+    "thumbnail": "images/sea-of-thieves.jpg"
+  },
+  {
+    "title": "Anthem",
+    "description": "Anthem is a science-fiction, online multiplayer, action role-playing video game developed by BioWare and published by Electronic Arts. The game was released worldwide for Microsoft Windows, PlayStation 4 and Xbox One on February 22, 2019.",
+    "publisher": "Electronic Arts",
+    "price": 39.99,
+    "battleRoyale": false,
+    "thumbnail": "images/anthem.jpg"
+  },
+  {
+    "title": "NBA 2K19",
+    "description": "NBA 2K19 is a basketball simulation video game developed by Visual Concepts and published by 2K Sports, based on the National Basketball Association. It is the 20th installment in the NBA 2K franchise and the successor to NBA 2K18.",
+    "publisher": "Visual Concepts",
+    "price": 29.99,
+    "battleRoyale": false,
+    "thumbnail": "images/nba-2k19.jpg"
+  },
+  {
+    "title": "Assassin's Creed Odyssey",
+    "description": "Assassin's Creed Odyssey is a 2018 action role-playing video game developed by Ubisoft Quebec and published by Ubisoft. It is the eleventh major installment, and twentieth overall, in the Assassin's Creed series and the successor to 2017's Assassin's Creed Origins.",
+    "publisher": "Ubisoft",
+    "price": 19.99,
+    "battleRoyale": false,
+    "thumbnail": "images/assassins-creed-odyssey.jpg"
+  }
+]

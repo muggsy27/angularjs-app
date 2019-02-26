@@ -1,0 +1,13 @@
+<div class="content">
+  <div ng-repeat="game in games">
+    <h1>All Games</h1>
+    <h2>{{game.title}}</h2>
+    <img ng-src="{{game.thumbnail}}" alt="{{game.title}} thumbnail">
+    <h3>Publisher:</h3>
+    <p>{{game.publisher}}</p>
+    <h3>Description:</h3>
+    <p>{{game.description}}</p>
+    <h3>Price:</h3>
+    <p>${{game.price}}</p>
+  </div>
+</div>
